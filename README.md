@@ -1,2 +1,2 @@
-# Pong
-A pong game in python
+# JavaPong
+A pong game in Java
